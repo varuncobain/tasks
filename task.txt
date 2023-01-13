@@ -1,0 +1,3 @@
+      3 2022-03-28 114628 report.ERROR errorrootcausetypeparsingexception,reasonNo value specified for terms query,line1,col796,typeparsingexception,reasonNo value specified for terms query,line1,col796,status400 
+      3 2022-03-28 114628 report.ERROR errorrootcausetypeparsingexception,reasonNo value specified for terms query,line1,col796,typeparsingexception,reasonNo value specified for terms query,line1,col796,status400 
+      3 2022-03-28 114628 report.ERROR errorrootcausetypeparsingexception,reasonNo value specified for terms query,line1,col796,typeparsingexception,reasonNo value specified for terms query,line1,col796,status400 
